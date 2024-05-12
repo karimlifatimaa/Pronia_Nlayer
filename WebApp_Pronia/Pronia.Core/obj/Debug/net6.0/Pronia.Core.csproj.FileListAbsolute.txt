@@ -1,0 +1,12 @@
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\bin\Debug\net6.0\Pronia.Core.deps.json
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\bin\Debug\net6.0\Pronia.Core.dll
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\bin\Debug\net6.0\Pronia.Core.pdb
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.csproj.AssemblyReference.cache
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.AssemblyInfoInputs.cache
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.AssemblyInfo.cs
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.csproj.CoreCompileInputs.cache
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.dll
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\obj\Debug\net6.0\refint\Pronia.Core.dll
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\obj\Debug\net6.0\Pronia.Core.pdb
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Core\obj\Debug\net6.0\ref\Pronia.Core.dll

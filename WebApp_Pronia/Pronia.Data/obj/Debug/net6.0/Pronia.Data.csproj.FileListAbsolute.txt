@@ -1,0 +1,17 @@
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\bin\Debug\net6.0\Pronia.Data.deps.json
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\bin\Debug\net6.0\Pronia.Data.runtimeconfig.json
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\bin\Debug\net6.0\Pronia.Data.dll
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\bin\Debug\net6.0\Pronia.Data.pdb
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\bin\Debug\net6.0\Pronia.Core.dll
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\bin\Debug\net6.0\Pronia.Core.pdb
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\Pronia.Data.csproj.AssemblyReference.cache
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\Pronia.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\Pronia.Data.AssemblyInfoInputs.cache
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\Pronia.Data.AssemblyInfo.cs
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\Pronia.Data.csproj.CoreCompileInputs.cache
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\Pronia.D.0BF47FE9.Up2Date
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\Pronia.Data.dll
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\refint\Pronia.Data.dll
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\Pronia.Data.pdb
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\Pronia.Data.genruntimeconfig.cache
+C:\Users\User1\OneDrive\Desktop\WebApp_Pronia\WebApp_Pronia\Pronia.Data\obj\Debug\net6.0\ref\Pronia.Data.dll
